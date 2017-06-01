@@ -1,0 +1,35 @@
+{
+  "name": "vuejs-seed",
+  "version": "1.0.0",
+  "description": "A boilerplate for building Vue.js apps",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": {
+    "name": "Sanket Patel",
+    "email": "sanketpatel.301090@gmail.com",
+    "url": "https://about.me/patelsanket"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sanketjpatel/vuejs-seed.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.0.1",
+    "vue-router": "^2.0.0",
+    "vuex": "^2.0.0",
+    "vuex-router-sync": "^3.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.0",
+    "eslint": "^3.7.0",
+    "eslint-config-vue": "^1.1.0",
+    "eslint-loader": "^1.5.0",
+    "eslint-plugin-html": "^1.5.3",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-vue": "^0.1.1",
+    "vue-loader": "^9.5.1"
+  }
+}
