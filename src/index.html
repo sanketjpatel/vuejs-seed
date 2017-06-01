@@ -9,6 +9,7 @@
 </head>
 <body>
     <div id="app">
+        <h1 v-once>Initial title - {{title}}</h1>
         <input type="text" v-on:input="changeTitle">
         <p>{{sayHello()}} - <a v-bind:href="link" target="_blank">Uptake</a></p>
     </div>
